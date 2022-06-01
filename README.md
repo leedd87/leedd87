@@ -10,9 +10,6 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 
 <div id='badges' align='center'>
