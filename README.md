@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div>
+  <img src="https://komarev.com/ghpvc/?username=leedd87&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <div id="badges" align='center'>
