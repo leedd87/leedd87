@@ -26,6 +26,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
