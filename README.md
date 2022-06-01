@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 </div>
 
 <div id='badges' align='center'>
-  <img src="https://komarev.com/ghpvc/?username=leedd87&style=flat-square&color=blue" alt=""/>
-  
-<h1>
+  <img src="https://komarev.com/ghpvc/?username=leedd87&style=flat-square&color=blue" alt=""/> 
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -45,7 +44,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-lee-full-stack-dev/)
 
-<br/>
+<hr>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
