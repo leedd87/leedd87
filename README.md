@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-  <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="600" height="300"/>
+  <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="600" height="300"/>
 </div>
 
 
