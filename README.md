@@ -29,3 +29,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
+
+<div id="badges" align='center'>
+ <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html&logoColor=white" alt="Html Badge"/>
+  </a>
+  </div>
